@@ -20,7 +20,7 @@
     background-color: rgba(238, 224, 208);
     border-radius: 50px;
 }
-@media screen and (max-width:400px) {
+@media screen and (max-width:420px) {
     .social-link i img{
         width: 20px;
     } 
@@ -28,7 +28,7 @@
 .logo h3{
     font-weight: bold;
 }
-@media screen and (max-width:400px) {
+@media screen and (max-width:420px) {
     .logo h3{
         font-size: 20px;
     }
@@ -37,7 +37,7 @@
     margin-left: 10px;
     cursor:pointer;
 }
-@media screen and (max-width:400px) {
+@media screen and (max-width:420px) {
     .icons i img{
         width: 20px;
     }

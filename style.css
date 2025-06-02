@@ -119,4 +119,9 @@ navbar-color{
 #tcp:hover{
     transform: translateY(-10px);
 }
+/* card2 */
+#c P{
+    font-weight: bold;
+}
+
 /* card3 */

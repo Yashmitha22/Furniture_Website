@@ -23,7 +23,7 @@
 @media screen and (max-width:420px) {
     .social-link i img{
         width: 20px;
-    } 
+    }
 }
 .logo h3{
     font-weight: bold;
@@ -120,8 +120,36 @@ navbar-color{
     transform: translateY(-10px);
 }
 /* card2 */
-#c P{
+#c p{
     font-weight: bold;
+}
+#btn3{
+    text-align: center;
+}
+#btn3 button{
+    width: 150px;
+    height: 30px;
+    background: 1px solid black;
+    transition: 0.5s ease;
+    cursor: pointer;
+}
+#btn3 button:hover{
+    background-color: rgba(red, green, blue, alpha);
+}
+@media screen and(max-width:895px){
+    #btn3 button{
+        width: 100px;
+    }
 }
 
 /* card3 */
+#btn4 button{
+    width: 150px;
+    height: 30px;
+    background: 1px solid black;
+    transition: 0.5s ease;
+    cursor: pointer;
+}
+#btn4 button:hover{
+    background-color: rgba(red, green, blue, alpha);
+}

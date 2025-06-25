@@ -112,7 +112,7 @@
 
 /* card2 */
 #tpc{
-    box-shadow: 0 0 5px black;
+    box-shadow: 0 2 5px black;
     transition: 0.5s ease;
     cursor: pointer;
 }
